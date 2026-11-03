@@ -39,7 +39,7 @@ p {
 }
 
 .hero-banner {
-  background-color: #007fff;
+  background-color: #00ac64;
   min-height: 100vh;
   padding: 50px 20px;
   box-sizing: border-box;
@@ -64,10 +64,10 @@ p {
 }
 
 .character1 {
-  background: url(characters/circle-guy.png) no-repeat 0 0;
+  background: url(characters/greenhumor.png) no-repeat 0 0;
   background-size: 100%;
-  width: 363px;
-  height: 344px;
+  width: 963px;
+  height: 944px;
   position: absolute;
   top: 117px;
   right: 89px;
@@ -99,7 +99,7 @@ button.cta {
   font-size: 30px;
   font-weight: bold;
   color: white;
-  background: #007fff;
+  background: #00ac64;
   display: inline-block;
   box-shadow: 0 0 0 10px rgba(0, 127, 255, 0.15);
   padding: 20px 30px;
@@ -117,7 +117,7 @@ button.cta:active {
 
 a.cta.alt,
 button.cta.alt {
-  background-color: #ffd400;
+  background-color: #b4ffad;
   color: #111111;
   box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.15);
 }
@@ -226,8 +226,8 @@ nav ul li a {
   box-sizing: border-box;
 }
 
-.nb-list li.red {
-  background-color: #ff3300;
+.nb-list li.mint {
+  background-color: #99edc3;
 }
 .nb-list li.blue {
   background-color: #007fff;
@@ -235,16 +235,23 @@ nav ul li a {
 .nb-list li.gray {
   background-color: rgba(0, 0, 0, 0.1);
 }
-.nb-list li.yellow {
-  background-color: #ffd400;
-  background-color: #ffd400;
-  color: #111111;
+.nb-list li.green {
+  background-color: #3cb043;
+  color: white;
 }
-.nb-list li.pink {
-  background-color: #ffadf9;
+.nb-list li.seafoam {
+  background-color: #3ded97;
 }
-.nb-list li.salmon {
-  background-color: #fa8072;
+.nb-list li.fern {
+  background-color: #5dbb63;
+}
+
+.nb-list li.parakeet {
+  background-color: #03c04a;
+}
+
+.nb-list li.shamrock {
+  background-color: #03ac13;
 }
 
 .nb-list li.dragging {
@@ -333,7 +340,7 @@ footer a {
 .popup .close {
   width: 80px;
   height: 80px;
-  background: #31ff53 url(characters/white.png) no-repeat center;
+  background: #00ac64 url(characters/white.png) no-repeat center;
   background-size: 50%;
   position: absolute;
   top: -40px;
