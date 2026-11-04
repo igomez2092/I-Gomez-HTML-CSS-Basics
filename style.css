@@ -258,8 +258,8 @@ nav ul li a {
   position: absolute;
   top: 70px;
   left: 70px;
-  right: -30px;
-  transform: rotate(6deg);
+  right: -20px;
+  transform: rotate(4deg);
   box-shadow: 0 2px 14px rgba(0, 0, 0, 0.3);
 }
 
