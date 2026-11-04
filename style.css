@@ -133,14 +133,14 @@ nav {
 
 nav .logo {
   display: block;
-  width: 300px;
-  height: 40px;
+  width: 700px;
+  height: 100px;
   position: absolute;
-  top: 50%;
+  top: 30%;
   left: 0;
   margin-top: -20px;
   margin-left: 30px;
-  background: url() no-repeat 0 0;
+  background: url(characters/GREEN!!!!.png) no-repeat 0 0;
   background-size: 100%;
   overflow: hidden;
   text-indent: -999px;
