@@ -69,9 +69,9 @@ p {
   width: 963px;
   height: 944px;
   position: absolute;
-  top: 117px;
-  right: 89px;
-  transform: rotate(15deg);
+  top: -30px;
+  right: -199px;
+  transform: rotate(0deg);
 }
 
 .character2 {
